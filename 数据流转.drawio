@@ -1,0 +1,124 @@
+<mxfile host="www.draw.io" modified="2019-11-20T07:19:11.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="uKo8_fG62lqTra_DK0W9" version="12.2.7" type="github" pages="2">
+  <diagram name="攻击验证" id="m2bEfMYgfu5ibev9fCCK">
+    <mxGraphModel dx="1463" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" style="vsdxID=1;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);dashed=1;dashPattern=12.00 6.00;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="271" y="283" width="556" height="621" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" style="vsdxID=2;fillColor=#ffffff;gradientColor=none;shape=stencil(1VNLDoIwED1NlyWFgtE14j0aKdBYWzKtgre3WAyg6cJITNzN582bmU4forlpWMtRQowFfeKdKG2D6B4liVANB2GdhWiBaF5p4DXoiyq937IBOVhnfR0Yel9HhoqE3LwXZxHZPCIHD2ZwdFkYwdmIhjf4ky4mIULSY9YLg0FbZoVWi/aSQc2xa4YryepFynSct7Nw/M14Px3uo4eWQgXB2zTapWteZSJca3ES3iX8Jf7hiM6YpFMJKb3y5vlXqbmQlykt7g==);strokeColor=#1e5155;strokeWidth=2;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="591" y="671" width="80" height="99" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;数据库&lt;br/&gt;&lt;/font&gt;" style="text;vsdxID=2;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;;html=1;" parent="3" vertex="1">
+          <mxGeometry x="-22.09" y="99" width="124.18" height="24.28" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" style="vsdxID=3;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="12" y="304" width="160" height="174" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="&lt;p style=&quot;align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;valign:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;漏洞缺陷库&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;vsdxID=4;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="5" vertex="1">
+          <mxGeometry width="160" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;漏洞信息&lt;br/&gt;POC&lt;br/&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;vsdxID=5;fillColor=#ffffff;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfoYEBSI+RQSWED+G5QZTmZOYhKSVTIcwGrErRrSdJMYpSIAPhx7TMnBxIECHLo4cJUAgSnsauAA==);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="5" vertex="1">
+          <mxGeometry y="24" width="160" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" style="vsdxID=6;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="12" y="664" width="160" height="231" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="&lt;p style=&quot;align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;valign:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;资源扫描组件&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;vsdxID=7;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="8" vertex="1">
+          <mxGeometry width="160" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;CPU&lt;br/&gt;内存&lt;br/&gt;网络&lt;br/&gt;存储&lt;br/&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;vsdxID=8;fillColor=#ffffff;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfoYEBSI+RQSWED+G5QZTmZOYhKSVTIcwGrErRrSdJMYpSIAPhx7TMnBxIECHLo4cJUAgSnsauAA==);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="8" vertex="1">
+          <mxGeometry y="24" width="160" height="207" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" style="vsdxID=9;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="307" y="664" width="160" height="231" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="&lt;p style=&quot;align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;valign:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;漏洞缺陷分析&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;vsdxID=10;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="11" vertex="1">
+          <mxGeometry width="160" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;漏洞缺陷匹配&lt;br/&gt;POC&lt;br/&gt;漏洞列表导出&lt;br/&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;vsdxID=11;fillColor=#ffffff;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfoYEBSI+RQSWED+G5QZTmZOYhKSVTIcwGrErRrSdJMYpSIAPhx7TMnBxIECHLo4cJUAgSnsauAA==);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="11" vertex="1">
+          <mxGeometry y="24" width="160" height="207" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" style="vsdxID=14;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="307" y="304" width="160" height="231" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="&lt;p style=&quot;align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;valign:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;配置扫描组件&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;vsdxID=15;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="14" vertex="1">
+          <mxGeometry width="160" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;用户、权限信息;&lt;br/&gt;虚拟安全设备信息;&lt;br/&gt;安全域信息;&lt;br/&gt;防火墙策略、DDOS、Ipsec、VPN等配置信息;&lt;br/&gt;平台操作日志;&lt;br/&gt;登陆日志;&lt;br/&gt;用户模板;&lt;br/&gt;配置模板。&lt;br/&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;vsdxID=16;fillColor=#ffffff;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfoYEBSI+RQSWED+G5QZTmZOYhKSVTIcwGrErRrSdJMYpSIAPhx7TMnBxIECHLo4cJUAgSnsauAA==);strokeColor=#1e5155;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="14" vertex="1">
+          <mxGeometry y="24" width="160" height="207" as="geometry"/>
+        </mxCell>
+        <mxCell id="17" style="vsdxID=22;fillColor=#ffffff;gradientColor=none;shape=stencil(1VNLDoIwED1NlyWFgtE14j0aKdBYWzKtgre3WAyg6cJITNzN582bmU4forlpWMtRQowFfeKdKG2D6B4liVANB2GdhWiBaF5p4DXoiyq937IBOVhnfR0Yel9HhoqE3LwXZxHZPCIHD2ZwdFkYwdmIhjf4ky4mIULSY9YLg0FbZoVWi/aSQc2xa4YryepFynSct7Nw/M14Px3uo4eWQgXB2zTapWteZSJca3ES3iX8Jf7hiM6YpFMJKb3y5vlXqbmQlykt7g==);strokeColor=#1e5155;strokeWidth=2;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="52" y="421" width="80" height="99" as="geometry"/>
+        </mxCell>
+        <mxCell id="18" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;漏洞信息&lt;br/&gt;&lt;/font&gt;" style="vsdxID=21;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;align=center;exitX=1;exitY=0.7528735632183908;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.49783549783549785;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="9" as="offset"/>
+            <Array as="points">
+              <mxPoint x="203.58" y="435"/>
+              <mxPoint x="203.58" y="779.66"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;日志展示、数据统计分析展示&lt;br/&gt;&lt;/font&gt;" style="vsdxID=20;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;align=center;exitX=0.5;exitY=0.15151515151515152;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.7489177489177489;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3" target="14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-4" as="offset"/>
+            <Array as="points">
+              <mxPoint x="631" y="617.5"/>
+              <mxPoint x="568.19" y="617.5"/>
+              <mxPoint x="568.19" y="476.82"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;配置信息、日志信息、维护业务数据&lt;br/&gt;&lt;/font&gt;" style="vsdxID=19;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;align=center;exitX=1;exitY=0.49783549783549785;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5050505050505051;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="14" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="3" as="offset"/>
+            <Array as="points">
+              <mxPoint x="687" y="419"/>
+              <mxPoint x="687" y="720.72"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;信息采集&lt;br/&gt;&lt;/font&gt;" style="vsdxID=12;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;align=center;exitX=1;exitY=0.7489177489177489;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.7489177489177489;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2" y="-2" as="offset"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;配置信息上传&lt;br/&gt;&lt;/font&gt;" style="vsdxID=17;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;align=center;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="14" target="11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="1" as="offset"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;配置信息下发&lt;br/&gt;&lt;/font&gt;" style="vsdxID=18;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;align=center;exitX=0;exitY=0.2510822510822511;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="11" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-4" as="offset"/>
+            <Array as="points">
+              <mxPoint x="242.93" y="722"/>
+              <mxPoint x="242.93" y="391.48"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="&lt;font style=&quot;font-size:15px;font-family:Microsoft YaHei;color:#3f3f3f;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;事件采集&lt;br/&gt;&lt;/font&gt;" style="vsdxID=13;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=5;strokeColor=#1e5155;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=0;align=center;exitX=1;exitY=0.2510822510822511;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5050505050505051;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="11" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset"/>
+            <Array as="points">
+              <mxPoint x="482" y="722"/>
+              <mxPoint x="482" y="721.48"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xf7ymD8CFWepCQ4kv04L" name="固件漏洞">
+    <mxGraphModel dx="1024" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="yR3tl17oWLLrunh_5Nob-0"/>
+        <mxCell id="yR3tl17oWLLrunh_5Nob-1" parent="yR3tl17oWLLrunh_5Nob-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
